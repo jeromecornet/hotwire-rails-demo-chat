@@ -20,6 +20,7 @@ gem 'jbuilder', '~> 2.7'
 
 # Use Hotwire for the frontend
 gem 'hotwire-rails'
+gem 'turbo-rails', github: 'jeromecornet/turbo-rails', branch: 'upsert'
 
 # Use Redis for Action Cable
 gem 'redis', '~> 4.0'
