@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/jeromecornet/turbo-rails.git
-  revision: 58da660918956c51e6d23a0ea8506b6fc31132e3
+  revision: b3a0ae049054a5f22969815eee63d16e2cd703d3
   branch: upsert
   specs:
     turbo-rails (0.5.9)
